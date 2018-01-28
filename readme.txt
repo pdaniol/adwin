@@ -1,4 +1,4 @@
-mplementation of the adaptive sliding window algorithm (ADWIN0)
+Implementation of the adaptive sliding window algorithm (ADWIN0)
 
 Input: double data saples
 
