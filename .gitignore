@@ -1,0 +1,13 @@
+.gitignore
+.idea/
+adwin.iml
+src/test/java/
+target/
+# Intellij
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+
